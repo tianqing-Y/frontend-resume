@@ -4,7 +4,7 @@
 
 上传你的项目代码，AI 自动分析技术栈、挖掘隐性亮点，输出可直接使用的简历描述和面试题。
 
-![SOLO](./images/1.png)
+![SOLO](../files/images/1.png)
 
 ---
 
@@ -31,7 +31,7 @@
 3. 选择或粘贴 `frontend-resume_SKILL.md` 文件内容
 4. 保存配置
 
-![IDE 引入方式](./images/4.png)
+![IDE 引入方式](../files/images/4.png)
 
 #### 方式二：App 里引入
 
@@ -42,7 +42,7 @@
 3. 上传技能 skill
 4. 点击确认会默认启用
 
-![App 引入方式](./images/3.png)
+![App 引入方式](../files/images/3.png)
 
 ### 触发方式
 
@@ -78,13 +78,13 @@
 直接丢给 AI，说一句：
 > "这个项目我想写在简历里，帮我提炼一些亮点"
 
-![skill 实际运行效果](./images/1.png)
+![skill 实际运行效果](../files/images/1.png)
 
 ### 第二步：回答引导问题
 
 AI 会分阶段引导你完成信息采集：
 
-![阶段性工作流](./images/2.png)
+![阶段性工作流](../files/images/2.png)
 
 **阶段一 · 用户画像**
 - 项目类型、你的角色、工作年限、目标岗位
@@ -188,7 +188,7 @@ frontend-resume/
 
 欢迎提交 Issue 和 Pull Request！
 
-详细贡献指南请查看 [CONTRIBUTING.md](./CONTRIBUTING.md)
+详细贡献指南请查看 [CONTRIBUTING.md](../files/CONTRIBUTING.md)
 
 ---
 
