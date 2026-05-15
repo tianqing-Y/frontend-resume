@@ -279,17 +279,17 @@ AI 会分阶段引导你完成信息采集，界面长这样(亲爱的宝子,不
 
 **GitHub 仓库**：
 ```
-https://github.com/your-username/frontend-resume-skill
+https://github.com/tianqing-Y/frontend-resume.git
 ```
 
 **完整 Skill 文件**：
 ```
-https://github.com/your-username/frontend-resume-skill/blob/main/frontend-resume_SKILL.md
+https://github.com/tianqing-Y/frontend-resume/blob/main/files/frontend-resume_SKILL.md
 ```
 
 **使用文档**：
 ```
-https://github.com/your-username/frontend-resume-skill/blob/main/README.md
+https://github.com/tianqing-Y/frontend-resume/blob/main/README.md
 ```
 
 ## 7、总结与思考
